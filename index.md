@@ -10,6 +10,9 @@ Entrepreneur once, and GOD-FORBID-NEVER-AGAIN, after 20 years of professional
 experience, I still enjoy software design and development to the point that it
 is still my main hobby in my spare time.
 
+**LinkedIn**: [https://www.linkedin.com/in/simonepezzano/](https://www.linkedin.com/in/simonepezzano/)
+
+
 ## My toys
 C++ and Java were my first loves, then Scala. Nowadays, my favourite combo is:
 **Golang** and **TypeScript**.
@@ -27,3 +30,23 @@ I generally like to work on:
 * Libraries: it's always fun and rewarding to build stuff that helps other
   fellow coders
 * Gateways: I don't know why, but it's always been a bit of an obsession for me
+
+
+## Some of my projects
+All projects I'm listing here are open source.
+
+### Utilities
+* [RedProbe](https://github.com/theirish81/redProbe): a probe to test HTTP(S)
+  endpoints. It measures key metrics, evaluates status codes an supports simple
+  assertions.
+* [RedRabbit](https://github.com/theirish81/redRabbit): a simple client for
+  RabbitMQ, acting either as publisher or consumer and performing actions based
+  on simple configuration files. Useful to validate the behaviour of RabbitMQ
+  topologies in the design phase.
+
+### Libraries
+* [YamlRef](https://github.com/theirish81/yamlRef) (**Golang**): An easy Golang
+  library to reference and merge multiple YAML files into a main one.
+* [GoWalker](https://github.com/theirish81/gowalker) (**Golang**): A path
+  expression interpreter to navigate data structures, powering a simple template
+  engine.
