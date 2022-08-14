@@ -1,7 +1,7 @@
 Software architect, software engineer, hardcore coder, but more than anything
 else, hardcore geek.
 
-Born and raised in Italy, I succeeded to not leaving my country in the great
+Born and raised in Italy, I succeeded at not leaving my country in the great
 IT specialists' diaspora, more for the sake of the challenge than for the
 roots.
 
@@ -19,7 +19,7 @@ C++ and Java were my first loves, then Scala. Nowadays, my favourite combo is:
 I love **microservices**, **distributed architectures**, especially when 
 **event driven**.
 
-Possibly a little late in the **Kubernetes game**, it's now part a vital part
+Possibly a little late to the **Kubernetes game**, it's now part a vital part
 of my tool belt.
 
 ## What I code in my spare time
