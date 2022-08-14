@@ -1,4 +1,3 @@
-## About me
 Software architect, software engineer, hardcore coder, but more than anything
 else, hardcore geek.
 
