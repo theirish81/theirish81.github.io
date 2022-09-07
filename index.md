@@ -44,8 +44,13 @@ All projects I'm listing here are open source.
   topologies in the design phase.
 
 ### Libraries
-* [YamlRef](https://github.com/theirish81/yamlRef) (**Golang**): An easy Golang
+* [YamlRef](https://github.com/theirish81/yamlRef) (**Golang**): an easy Golang
   library to reference and merge multiple YAML files into a main one.
 * [GoWalker](https://github.com/theirish81/gowalker) (**Golang**): A path
   expression interpreter to navigate data structures, powering a simple template
   engine.
+
+### Applications
+* [RedPlant](https://github.com/theirish81/redplant) (**Golang**): my biggest
+  public, open source project. RedPlant is a performant, flexible API Gateway
+  dedicated to developers.
